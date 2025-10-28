@@ -2,7 +2,7 @@
 
 
 
-💻 Java Developer | Front-End Learner | Tech Enthusiast
+💻 Java Developer | Front-End Learner | Tech Explorer
 
 
 ## 🔧 Tech Stack
@@ -19,13 +19,13 @@
 
 
 ## 🎯 About Me
-✨ Learning and preparing to become a skilled Front-End Developer.
+✨ A curious learner passionate about technology and creativity.
 
-💡 Have knowledge of Java and MySQL.
+💡 Built a Java Console Project – Housing Society Management System.
 
-🚀 Love designing creative and responsive web pages.
+🌱 I’m an aspiring front-end developer learning HTML, CSS, after completing Java.
 
-🤝 Always excited to learn and grow in the tech field.
+🚀 I enjoy learning new things and creating simple, useful projects.
 
 
 ##  🌐 Connect with Me
