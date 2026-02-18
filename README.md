@@ -12,6 +12,10 @@
 
 🎨 CSS
 
+⚡ JavaScript
+
+🟣 Bootstrap 
+
 🗃️ MySQL
 
 🧰 Git & GitHub
