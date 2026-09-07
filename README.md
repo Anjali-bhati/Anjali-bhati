@@ -20,6 +20,10 @@
 
 🧰 Git & GitHub
 
+React.js
+
+SAP ABAP
+
 
 
 ## 🎯 About Me
